@@ -1,0 +1,5 @@
+Bundle-Name: learn-configuration
+Bundle-SymbolicName: br.com.learn.configuration
+Bundle-Version: 1.0.0
+Export-Package: br.com.learn.configuration.constants
+-metatype: *
